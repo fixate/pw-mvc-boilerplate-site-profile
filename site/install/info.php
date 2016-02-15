@@ -1,6 +1,6 @@
 <?php if(!defined("PROCESSWIRE_INSTALL")) die();
 $info = array(
-	'title' => "Pw MVC Boilerplate Site Profile", 
-	'summary' => "A profile generated to quickly get going with Fixate's ProcessWire MVC Boilerplate.", 
+	'title' => "ProcessWire MVC Boilerplate Site Profile", 
+	'summary' => "Site profile for Fixate's PW MVC Boilerplate", 
 	'screenshot' => ""
 	);
